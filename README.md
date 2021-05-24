@@ -1,2 +1,2 @@
-<img src="https://cdn.discordapp.com/attachments/567734848689537026/846488556460572672/Nekromateion.gif">
+![arion](https://give.bj/cdn?id=bqt488hi4pw600u83j&name=Nekromateion.gif)
 <img alt="" src="https://komarev.com/ghpvc/?username=Nekromateion&style=flat-square">
